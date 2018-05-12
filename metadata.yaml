@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37601'
     url: http://www.gutenberg.org/2009/agents/37601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36348#Our-Artist-in-Cuba-Peru-Spain-and-AlgiersLeaves-from-The-Sketch-Book-of-a-Traveller-1864-1868
 gutenberg_issued: '2011-06-07'
 gutenberg_type: Text
 identifiers:
