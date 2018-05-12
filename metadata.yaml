@@ -1,0 +1,36 @@
+_repo: Our-Artist-in-Cuba-Peru-Spain-and-AlgiersLeaves-from-The-Sketch-Book-of-a-Traveller-1864-1868_36348
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36348-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carleton, George Washington
+    aliases:
+    - Carleton, G. W. (George Washington)
+    - Carleton, George W.
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '37601'
+    url: http://www.gutenberg.org/2009/agents/37601
+description: ''
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36348'
+  lccn: '11025506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor, Pictorial'
+- !lcsh 'Algeria -- Social life and customs -- Pictorial works'
+- !lcsh 'Cuba -- Social life and customs -- Pictorial works'
+- !lcsh 'Peru -- Social life and customs -- Pictorial works'
+- !lcc 'NC'
+- !lcsh 'Spain -- Social life and customs -- Pictorial works'
+title: 'Our Artist in Cuba, Peru, Spain and Algiers
+
+  Leaves from The Sketch-Book of a Traveller, 1864-1868'
+url: http://www.gutenberg.org/ebooks/36348
